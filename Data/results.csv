@@ -1,0 +1,21 @@
+studentID,username,password,first_name,last_name,email,score,competitionID,resultID,completionTime,ranking,name,date,status
+S001,S001_user,password1,John,Doe,johndoe@example.com,98,C001,R001,01:30:00,1,Coding Hackathon 2024,2024-09-30,Completed
+S002,S002_user,password2,Jane,Smith,janesmith@example.com,97,C016,R002,01:45:00,2,Coding Hackathon 2024,2024-09-30,Completed
+S003,S003_user,password3,Bob,Brown,bobbrown@example.com,96,C009,R003,02:00:00,3,Algorithms Contest 2024,2024-09-30,Completed
+S004,S004_user,password4,Alice,Johnson,alicejohnson@example.com,95,C022,R013,01:40:00,4,Coding Challenge Series 3,2024-09-28,Completed
+S005,S005_user,password5,Charlie,Wilson,charliewilson@example.com,94,C018,R005,01:55:00,5,Coding Challenge Series 1,2024-09-15,Completed
+S006,S006_user,password6,Eve,Davis,evdavis@example.com,93,C020,R006,02:10:00,6,Algorithms Contest 2024,2024-09-30,Completed
+S007,S007_user,password7,David,Miller,davidmiller@example.com,92,C019,R011,01:55:00,11,Code Golf Challenge,2024-09-20,Completed
+S008,S008_user,password8,Grace,Garcia,gracegarcia@example.com,91,C014,R008,01:25:00,8,Code Sprint 2024,2024-09-20,Completed
+S009,S009_user,password9,Hank,Martinez,hankmartinez@example.com,90,C012,R009,01:50:00,9,Coding Challenge Series 1,2024-09-15,Completed
+S010,S010_user,password10,Isabella,Lopez,isabellalopez@example.com,89,C023,R010,01:35:00,10,Coding Game Jam,2024-09-30,Completed
+S011,S011_user,password11,James,Johnson,jamesjohnson@example.com,88,C002,R004,01:55:00,11,Code Golf Challenge,2024-09-20,Completed
+S012,S012_user,password12,Karen,Clark,karenclark@example.com,87,C021,R012,02:05:00,12,Coding Quest 2024,2024-09-28,Completed
+S013,S013_user,password13,Liam,Lee,liamlee@example.com,86,C005,R007,02:00:00,14,Coding Challenge Series 3,2024-09-28,Completed
+S014,S014_user,password14,Noah,Walker,noahwalker@example.com,85,C010,R014,02:15:00,15,Coding Quest 2024,2024-09-28,Completed
+S015,S015_user,password15,Olivia,Hall,oliviahall@example.com,84,C015,R015,02:30:00,16,Debugging Marathon,2024-09-28,Completed
+S016,S016_user,password16,Emma,Hernandez,emmahernandez@example.com,83,C017,R016,01:15:00,16,Competitive Programming League,2024-09-25,Completed
+S017,S017_user,password17,Sophia,Young,sophiayoung@example.com,82,C006,R018,01:45:00,17,Data Structures Showdown,2024-09-25,Completed
+S018,S018_user,password18,Jackson,King,jacksonking@example.com,81,C013,R017,01:50:00,18,Coding Challenge Series 2,2024-09-25,Completed
+S019,S019_user,password19,Amelia,Wright,ameliawright@example.com,80,C011,R019,01:55:00,19,Coding Game Jam,2024-09-30,Completed
+S020,S020_user,password20,Lucas,Scott,lucasscott@example.com,79,C024,R020,02:05:00,20,Coding Challenge Series 2,2024-09-25,Completed
